@@ -1,6 +1,4 @@
 # Linux Kernel & OS Internals — A Working Notebook
-### For: Kernel Security Project (DRDO / Applied Systems Track)
-### Author's context: BE Computer Engineering, Thapar IET
 
 ---
 
